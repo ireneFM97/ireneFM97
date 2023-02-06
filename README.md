@@ -3,61 +3,26 @@
     <h3> A student eager to learn. In my profile I upload the most important projects that we are learning in such a short time. There is still a lot to work on and improve, but always with a lot of enthusiasm!</h3>
 </div>
 
-
-<div id="badges" align="center">
-    <a href="http://twitch.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/twitch/status/youdevs?color=purple&logo=twitch&style=for-the-badge"
-            alt="Twitch Badge" />
-    </a>
-    <a href="https://www.youtube.com/youdevs" target="_blank">
-        <img src="https://img.shields.io/youtube/channel/subscribers/UC4hHrYhWMy-iN29_3bJ7zfA?label=suscriptores&logo=youtube&style=for-the-badge"
-            alt="Youtube Badge" />
-    </a>
-    <a href="https://twitter.com/CarlosYouDevs" target="_blank">
-        <img src="https://img.shields.io/twitter/follow/CarlosYouDevs?color=blue&label=CarlosYouDevs&logo=twitter&style=for-the-badge"
-            alt="Twitter Badge" />
-    </a>
-</div>
-
 ---
 
 ### 👨‍💻 About Me :
 
-- 📝 I regularly upload videos on [https://www.youtube.com/youdevs](https://www.youtube.com/youdevs)
+- 📝 You can see my LinkedIn in [Irene Fernández](https://www.linkedin.com/in/irene-fern%C3%A1ndez-meneses-1295a4179/)
 
-- 💬 Ask me about **PHP, Laravel, Python, Javascript**
-
-- 📫 How to reach me **carlos.develops@gmail.com**
-
-- 🌱 I’m currently learning **React.js, Blockchain, Web3 and Solidity**
-
-- 🌐 Website [youdevs.com](youdevs.com)
+- 📫 How to reach me **irenemeneses97@gmail.com**
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>🔨  I’m currently learning:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" **alt="Git" width="40" height="40"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" **alt="Git" width="40" height="40"/>
       </div>
 </div>
-
----
-
-### 📊 My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YouDevs&theme=onedark)](https://git.io/streak-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YouDevs&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YouDevs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
