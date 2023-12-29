@@ -1,19 +1,18 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Irene</h1>
-    <h3> A student eager to learn. In my profile I upload the most important projects that we are learning in such a short time. There is still a lot to work on and improve, but always with a lot of enthusiasm!</h3>
+    <h1 align="center">Hi 👋, soy Irene</h1>
+    <h3> Una estudiante con muchas ganas de aprender. En mi perfil subo los proyectos más importantes que vamos aprendiendo en tan poco tiempo. Todavía queda mucho por trabajar y mejorar, ¡pero siempre con mucha ilusión!</h3>
 </div>
 
 ---
 
-### 👨‍💻 About Me :
+### 👨‍💻 Sobre mi:
+- 📝 Puedes ver mi LinkedIn en [Irene Fernández](https://www.linkedin.com/in/irene-fern%C3%A1ndez-meneses-1295a4179/)
 
-- 📝 You can see my LinkedIn in [Irene Fernández](https://www.linkedin.com/in/irene-fern%C3%A1ndez-meneses-1295a4179/)
-
-- 📫 How to reach me **irenemeneses97@gmail.com**
+- 📫 Como contactarme **irenemeneses97@gmail.com**
 
 
 <div align="left">
-    <h3>🔨  I’m currently learning:</h3>
+    <h3>🔨  Actualmente estoy estudiando:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
