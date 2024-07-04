@@ -1,6 +1,7 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, soy Irene</h1>
-    <h3> Una estudiante con muchas ganas de aprender. En mi perfil subo los proyectos más importantes que vamos aprendiendo en tan poco tiempo. Todavía queda mucho por trabajar y mejorar, ¡pero siempre con mucha ilusión!</h3>
+    <h3> Subo mis proyectos a GitHub para demostrar mis habilidades en desarrollo web. Mis repositorios reflejan mi pasión y dedicación, creciendo y mejorando continuamente a través de la práctica.
+</h3>
 </div>
 
 ---
